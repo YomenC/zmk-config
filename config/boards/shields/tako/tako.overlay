@@ -27,7 +27,7 @@
     , <&gpio1 15 GPIO_ACTIVE_HIGH>
     ;
 
-    mux-en-gpios = <&gpio0 09  GPIO_ACTIVE_HIGH>;
+    mux-en-gpios = <&gpio0 09 GPIO_ACTIVE_HIGH>;
     discharge-gpios = <&gpio1 11 GPIO_ACTIVE_HIGH>;
     col-channels = <4 6 2 1 3>;
     io-channels = <&adc 1>;
