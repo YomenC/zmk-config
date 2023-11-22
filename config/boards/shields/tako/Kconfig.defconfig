@@ -1,7 +1,0 @@
-if SHIELD_TAKO
-
-config ZMK_KEYBOARD_NAME
-  default "Tako"
-
-endif
-
