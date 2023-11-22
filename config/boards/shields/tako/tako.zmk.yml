@@ -3,7 +3,7 @@ id: tako
 name: Tako
 type: shield
 url: https://github.com/ssbb/tako/
-requires: [pro_micro]
+requires: [nrfmicro_13_52840]
 exposes: []
 features:
   - keys
