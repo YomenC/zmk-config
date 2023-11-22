@@ -1,0 +1,12 @@
+file_format: "1"
+id: tako
+name: Tako
+type: shield
+url: https://github.com/ssbb/tako/
+requires: [nrfmicro_13_52840]
+exposes: []
+features:
+  - keys
+  - display
+# siblings:
+#  - tako
