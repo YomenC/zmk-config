@@ -15,4 +15,4 @@
 include:
   - board: nrfmicro_13
     shield: tako
-    cmake-args: -DZEPHYR_EXTRA_MODULES="$PWD/zmk/app/module;${GITHUB_WORKSPACE}/config/tako_drivers/"
+    cmake-args: -DZEPHYR_EXTRA_MODULES="${GITHUB_WORKSPACE}/config/tako_drivers/"
